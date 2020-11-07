@@ -140,9 +140,14 @@
        "aya":88
     },
     {
-       "id":30,
+       "id":29,
        "name":"Al Ankabut",
        "aya":69
+    },
+    {
+      "id": 30,
+      "name":"Ar Rum",
+      "aya": 60
     },
     {
        "id":31,
